@@ -1,0 +1,18 @@
+# DQN_5x5_Gomoku
+Deep Q network for 5x5 Gomoku with the trained weights. 
+
+Enviroment:
+python3
+tensorflow 1.x
+Keras
+
+This is inference code, uesr can play with agent directly with the uploaded weights.
+
+Please download the trained weights ( *.h5 ) files together when running this program.
+
+When program started, agent will put first stone (X), then user can input his/her choice by 0 ~ 24.
+Here is no error handling, please enter the target location correctly.
+
+Any problem/question, please post to issue.
+
+Thanks.
