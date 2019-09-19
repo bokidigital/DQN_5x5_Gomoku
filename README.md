@@ -1,5 +1,5 @@
 # DQN 5x5 Gomoku
-Deep Q network for 5x5 Gomoku with the trained weights.
+Deep Q network for 5x5 Gomoku ( consecutive 4 stones to win. ) with the trained weights.
 
 Environment: 
 
