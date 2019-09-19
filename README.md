@@ -1,8 +1,12 @@
 # DQN 5x5 Gomoku
 Deep Q network for 5x5 Gomoku with the trained weights.
+
 Environment: 
+
 python3 
+
 TensorFlow 1.x 
+
 Keras
 
 This is inference code, user can play with the agent directly with the uploaded weights.
